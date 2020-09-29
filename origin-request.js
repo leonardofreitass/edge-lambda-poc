@@ -1,5 +1,5 @@
 const VALIDATION = {
-  "/halo-reach.jpeg": true,
+  "/halo-reach.jpeg": false,
   "/the-last-of-us-2.jpeg": true,
 };
 
